@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   family_names = ["Fred","Camilla","Mattie","Rodger"]
-  family_names_index = 0
+  family_names.index[0]
 end
 
 def retrieve_first_element_from_array(array)
